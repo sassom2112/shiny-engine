@@ -1,6 +1,4 @@
 # shiny-engine
-Sites to Learn technology on
-
 
 Foundations(Linux Wargames)	OverTheWire	Linux command line, system basics	https://overthewire.org/wargames/
 
